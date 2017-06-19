@@ -1,0 +1,6 @@
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\bin\Debug\Queue.exe.config
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\bin\Debug\Queue.exe
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\bin\Debug\Queue.pdb
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\obj\Debug\SortingCollection.csprojResolveAssemblyReference.cache
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\obj\Debug\Queue.exe
+c:\users\sador23\documents\visual studio 2017\Projects\Queue\Queue\obj\Debug\Queue.pdb
